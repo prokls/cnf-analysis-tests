@@ -4,7 +4,7 @@
     "@filename": "05-lit-freq.cnf",
     "@md5sum": "294dacf39ef4f708da5e6e9b930cd41c",
     "@sha1sum": "1e01f18e0e272ccc118c73c5625141ba0565f538",
-    "@time": "2016-08-01T19:34:19.641448",
+    "@timestamp": "2016-08-01T19:34:19.641448",
     "@version": "1.0.0",
     "featuring": {
       "clause_variables_sd_mean": 1.8263714598026863,

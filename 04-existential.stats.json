@@ -4,7 +4,7 @@
     "@filename": "04-existential.cnf",
     "@md5sum": "20a71ef4f90f730b1d3dcc5b958a8a0a",
     "@sha1sum": "1731004e47b9283002247cecd35e8340b52956e8",
-    "@time": "2016-08-01T15:33:00.988642",
+    "@timestamp": "2016-08-01T15:33:00.988642",
     "@version": "1.0.0",
     "featuring": {
       "clause_variables_sd_mean": 0.5835045251008911,

@@ -4,7 +4,7 @@
     "@filename": "03-pos-neg.cnf",
     "@md5sum": "c62a02e292701e479f25443e1ff01d05",
     "@sha1sum": "8649c9feb84ff58d079b9621302cd1e4bd083453",
-    "@time": "2016-08-01T15:32:57.720212",
+    "@timestamp": "2016-08-01T15:32:57.720212",
     "@version": "1.0.0",
     "featuring": {
       "clause_variables_sd_mean": 0.9564916616320082,

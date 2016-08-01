@@ -4,7 +4,7 @@
     "@filename": "01-simple11.cnf",
     "@md5sum": "3fac7b5206ff86953c16c2a4bad88edb",
     "@sha1sum": "43fb2c0bcacecc08d1201efbd16b329fba18aae0",
-    "@time": "2016-08-01T15:32:51.065964",
+    "@timestamp": "2016-08-01T15:32:51.065964",
     "@version": "1.0.0",
     "featuring": {
       "clause_variables_sd_mean": 0.0,

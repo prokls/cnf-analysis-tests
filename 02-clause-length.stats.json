@@ -4,7 +4,7 @@
     "@filename": "02-clause-length.cnf",
     "@md5sum": "d74259b00b3bcbeac6d8237aa4eb009a",
     "@sha1sum": "1a4660faf61452d0de8cff57f7cc5919db7c60e2",
-    "@time": "2016-08-01T15:32:54.706948",
+    "@timestamp": "2016-08-01T15:32:54.706948",
     "@version": "1.0.0",
     "featuring": {
       "clause_variables_sd_mean": 0.7697488264101432,
