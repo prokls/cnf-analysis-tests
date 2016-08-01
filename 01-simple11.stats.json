@@ -4,7 +4,7 @@
     "@filename": "01-simple11.cnf",
     "@md5sum": "3fac7b5206ff86953c16c2a4bad88edb",
     "@sha1sum": "43fb2c0bcacecc08d1201efbd16b329fba18aae0",
-    "@time": "2016-07-21T23:11:54.306612",
+    "@time": "2016-08-01T15:32:51.065964",
     "@version": "1.0.0",
     "featuring": {
       "clause_variables_sd_mean": 0.0,
@@ -14,7 +14,7 @@
       "clauses_length_median": 1,
       "clauses_length_sd": 0.0,
       "clauses_length_smallest": 1,
-      "connected_literal_components_count": 1,
+      "connected_literal_components_count": 2,
       "connected_variable_components_count": 1,
       "definite_clauses_count": 1,
       "existential_literals_count": 1,
